@@ -1,0 +1,4 @@
+1.Não é a linguagem de programação que define o programador, mas sim sua lógica.
+2.Faça como um programador. Quando tudo está errado e confuso, apague tudo.
+3.Programação é a arte de descobrir o que você quer fazer e, então, traduzi-lo para uma linguagem que um computador pode entender.
+4.A programação é pensamento formalizado.
