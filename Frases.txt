@@ -2,3 +2,4 @@
 2.Faça como um programador. Quando tudo está errado e confuso, apague tudo.
 3.Programação é a arte de descobrir o que você quer fazer e, então, traduzi-lo para uma linguagem que um computador pode entender.
 4.A programação é pensamento formalizado.
+5. Aprender é uma arte
